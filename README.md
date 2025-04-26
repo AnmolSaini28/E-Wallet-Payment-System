@@ -239,20 +239,6 @@ We encourage you to give the repository a star and we thank you for your interes
 
 Your support is greatly appreciated.
 
-## 🔗 Contact Me
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://tejasmedade.github.io/)
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/TejasMedade)
-
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TejasMedade)
-
-
-## Authors
-
-- [Shreyas Vilas Medade](https://github.com/medadeshreyas)
-
-- [Tejas Vilas Medade](https://github.com/tejasmedade)
-
 
 
 ## Acknowledgements
